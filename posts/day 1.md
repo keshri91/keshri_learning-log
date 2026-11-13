@@ -1,7 +1,7 @@
 
 ### Day 1: Laying the Foundations of Computer Networking
 
-**Date:**  7, 2026
+**Date:**  14, 2026
 
 **Focus:** Introduction to Computer Networking, OSI Model, & Basic CLI
 
